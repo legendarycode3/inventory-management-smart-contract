@@ -60,7 +60,7 @@ Runing specific test:
 * ****`updateInventoryItem`****:
 * ****`removeInventoryItem`****:
 * ****`shipInventoryItem`****:
-* ****`getInventoryItem`****:
+* ****`getInventoryItem(uint256)`****:  Function allows to retrieve the details of a specific inventory item by its ID.
 
 ### Variables:
 
