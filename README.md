@@ -57,6 +57,7 @@ Runing specific test:
 ## 📋Contract Details
 ### Functions:
 * ****`addInventoryItem`****:
+* ****`updateInventoryItem`****:
 
 ### Variables:
 
