@@ -81,7 +81,8 @@ Runing specific test:
 ## Usage Guide (How to use - When using Remix IDE)
 
 ## Why This Matters (Inventory Management Smart Contract)
-Inventory Management Smart Contracts matters in Web3 because they replace centralized, error-prone database systems with a secure, decentralized, and automated ledger.
+Inventory Management Smart Contracts matters in Web3 because they replace centralized, error-prone database systems with a secure, decentralized, and automated ledger. </br>
+They matter because:
 
 ## Security Considerations
 
