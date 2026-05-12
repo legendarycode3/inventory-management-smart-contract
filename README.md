@@ -48,6 +48,9 @@ Runing all tests:
     forge test
   ```
 Runing specific test:
+ ```shell
+     forge test --mt testFunctionName
+  ```
 
 ## Usage
 
