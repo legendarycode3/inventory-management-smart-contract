@@ -8,6 +8,7 @@
 
 ## 📂 Project Structure (Files)
 * ****`InventoryManagement.sol`****:
+* ****`InventoryManagement.t.sol`****:
 
 ## 🌐Technology Stack (Technologies Used)
 
