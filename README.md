@@ -3,7 +3,7 @@
 ## Project Overview
 
 ## 📌 Features
-* ****AddItem Capability:**** Allows the owner (e.g., manager) to register a new product with a unique
+* ****AddItem Capability:**** Allows the owner (e.g., manager) to register a new product with a unique identifier (ID), name, and initial quantity.
 * ****Transparency:****
 * ****Immutability:****
 * ****Automation:**** Eliminates manual errors by removing the need for manual data entry by the manager.
