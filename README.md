@@ -3,6 +3,8 @@
 ## Project Overview
 
 ## 📌 Features
+* ****Add Registration:****
+* ****Transparency:****
 
 ## 🧠 Key Concepts Applied
 * ****Modifier:**** Access-Control for onlyManager of the inventory system to access the details.
