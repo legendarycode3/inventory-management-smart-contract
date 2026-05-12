@@ -7,7 +7,7 @@
 * ****UpdateQuantity:**** Allows authorized users to increase (stock in) or decrease (stock out) the quantity of existing products.
 * ****CheckStock:****  Enables any user to read the current quantity of a specific item, providing real-time visibility.
 * ****Transparency:**** Real-time visibility across all storage locations.
-* ****Immutability:****
+* ****Immutability:**** Transaction history cannot be changed or deleted, ensuring accurate records.
 * ****Automation:**** Eliminates manual errors by removing the need for manual data entry by the manager.
 
 ## 🧠 Key Concepts Applied
