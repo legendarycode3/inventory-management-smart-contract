@@ -59,6 +59,7 @@ Runing specific test:
 * ****`addInventoryItem`****:
 * ****`updateInventoryItem`****:
 * ****`removeInventoryItem`****:
+* ****`shipInventoryItem`****:
 
 ### Variables:
 
