@@ -56,7 +56,7 @@ Runing specific test:
 
 ## 📋Contract Details
 ### Functions:
-* ****`addInventoryItem`****:
+* ****`addInventoryItem`****: Function that allows only the  inventory manager, to add a new stock item, to the inventory system.
 * ****`updateInventoryItem`****:  Function that allows the only inventory manager to update an existing item in the inventory (only if it exist).
 * ****`removeInventoryItem(uint256)`****: Function that  allows only the inventory manager to remove an existing item from the inventory.
 * ****`shipInventoryItem*(uint256, uint256)`****: Function that allows only the inventory manager to ship / sale a requested inventoryItem to the customers in need.
