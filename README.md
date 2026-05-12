@@ -9,6 +9,7 @@
 * ****Transparency:**** Real-time visibility across all storage locations.
 * ****Immutability:**** Transaction history cannot be changed or deleted, ensuring accurate records.
 * ****Automation:**** Eliminates manual errors by removing the need for manual data entry by the manager.
+* ****Real-time Inventory Tracking:****
 
 ## 🧠 Key Concepts Applied
 * ****Modifier:**** Access-Control for onlyManager of the inventory system to access the details.
