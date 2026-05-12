@@ -2,15 +2,17 @@
 
 ## Project Overview
 
-# 📌 Features
+## 📌 Features
 
-# 🧠 Key Concepts Applied
+## 🧠 Key Concepts Applied
 
-# 📂 Project Structure (Files)
+## 📂 Project Structure (Files)
 
-# 🌐Technology Stack (Technologies Used)
+## 🌐Technology Stack (Technologies Used)
 
-# Getting Started
+## Getting Started
+
+### Prerequisites
 
 ## Foundry
 
