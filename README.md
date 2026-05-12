@@ -35,6 +35,7 @@
    ```shell
     git clone https://github.com/legendarycode3/inventory-management-smart-contract
    ```
+2.  Navigate to the directory you created and cloned the file to:
 
 ## Usage
 
