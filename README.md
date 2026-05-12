@@ -7,6 +7,7 @@
 ## 🧠 Key Concepts Applied
 
 ## 📂 Project Structure (Files)
+* ****`InventoryManagement.sol`****:
 
 ## 🌐Technology Stack (Technologies Used)
 
