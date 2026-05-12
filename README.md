@@ -7,6 +7,7 @@
 ## 🧠 Key Concepts Applied
 * ****Struct:****
 * ****Mapping:****
+* ****Data types:****
 * ****Constructor:**** 
 
 ## 📂 Project Structure (Files)
