@@ -39,7 +39,8 @@
     ```shell
       cd inventory-management-smart-contract
     ```
-2. Compile the smart contract:
+3. Compile the smart contract:
+   `forge build`
 
 ## Usage
 
