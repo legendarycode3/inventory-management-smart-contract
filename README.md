@@ -83,7 +83,7 @@ Runing specific test:
 ## Why This Matters (Inventory Management Smart Contract)
 Inventory Management Smart Contracts matters in Web3 because they replace centralized, error-prone database systems with a secure, decentralized, and automated ledger. </br>
 They matter because:
-1. *****Eliminate Intermediaries:****  They remove the need for trusted third parties to manage
+1. *****Eliminate Intermediaries:****  They remove the need for trusted third parties to manage inventory records, reducing administrative costs and bottlenecks.
 
 ## Security Considerations
 
