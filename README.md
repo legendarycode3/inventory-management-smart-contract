@@ -42,6 +42,8 @@
 3. Compile the smart contract:
    `forge build`
 
+### Testing the contract (Using Foundry Development Kit ) 
+
 ## Usage
 
 ## 📋Contract Details
