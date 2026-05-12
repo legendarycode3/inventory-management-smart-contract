@@ -6,7 +6,7 @@
 * ****AddItem Capability:**** Allows the owner (e.g., manager) to register a new product with a unique identifier (ID), name, and initial quantity.
 * ****UpdateQuantity:**** Allows authorized users to increase (stock in) or decrease (stock out) the quantity of existing products.
 * ****CheckStock:****  Enables any user to read the current quantity of a specific item, providing real-time visibility.
-* ****Transparency:****
+* ****Transparency:**** Real-time visibility across all storage locations.
 * ****Immutability:****
 * ****Automation:**** Eliminates manual errors by removing the need for manual data entry by the manager.
 
