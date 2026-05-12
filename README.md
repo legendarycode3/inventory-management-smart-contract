@@ -10,7 +10,7 @@
 * ****Immutability:**** Transaction history cannot be changed or deleted, ensuring accurate records.
 * ****Automation:**** Eliminates manual errors by removing the need for manual data entry by the manager.
 * ****Real-time Inventory Tracking:****  Maintaining an accurate, live view of item quantities.
-* ****Verification of Goods:****
+* ****Verification of Goods:****  The ability of helping authorized user , Confirming that goods exist in the stated or not.
 
 ## 🧠 Key Concepts Applied
 * ****Modifier:**** Access-Control for onlyManager of the inventory system to access the details.
