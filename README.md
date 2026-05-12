@@ -8,7 +8,7 @@
 * ****Modifier:**** Access-Control for onlyManager of the inventory system to access the details.
 * ****Struct:****
 * ****Mapping:****
-* ****Data types:****
+* ****Data types:**** Defines the exact nature of data to be stored, ensuring the blockchain knows how to handle, compute, and store it efficiently.
 * ****Constructor:****
 * ****Custom Error:****
 
