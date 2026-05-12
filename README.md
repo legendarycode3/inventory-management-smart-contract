@@ -13,7 +13,7 @@
 ## 🌐Technology Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)****
 * ****[Remix IDE](https://remix.ethereum.org/)****
-
+* ****[Foundry(forge, cast, anvil)](https://www.getfoundry.sh/)**** 
 
 ## Getting Started
 
