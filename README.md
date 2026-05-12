@@ -7,7 +7,7 @@
 ## 🧠 Key Concepts Applied
 * ****Modifier:**** Access-Control for onlyManager of the inventory system to access the details.
 * ****Struct:****
-* ****Mapping:****
+* ****Mapping:**** For tracking of inventory details and also checking an existing items using the itemId (if available).
 * ****Data types:**** Defines the exact nature of data to be stored, ensuring the blockchain knows how to handle, compute, and store it efficiently.
 * ****Constructor:****
 * ****Custom Error:**** Defined and used custom errors implementations, for gas optimation.
