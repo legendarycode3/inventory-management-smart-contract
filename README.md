@@ -57,9 +57,9 @@ Runing specific test:
 ## 📋Contract Details
 ### Functions:
 * ****`addInventoryItem`****:
-* ****`updateInventoryItem`****:
-* ****`removeInventoryItem(uint256)`****: Function that  allows the inventory manager to remove an existing item from the inventory.
-* ****`shipInventoryItem*(uint256, uint256)`****: Function that allows inventory manager to ship / sale a requested inventoryItem to the customers in need.
+* ****`updateInventoryItem`****:  Function that allows the only inventory manager to update an existing item in the inventory (only if it exist).
+* ****`removeInventoryItem(uint256)`****: Function that  allows only the inventory manager to remove an existing item from the inventory.
+* ****`shipInventoryItem*(uint256, uint256)`****: Function that allows only the inventory manager to ship / sale a requested inventoryItem to the customers in need.
 * ****`getInventoryItem(uint256)`****:  Function allows to retrieve the details of a specific inventory item by its ID.
 
 ### Variables:
