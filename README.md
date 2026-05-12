@@ -6,7 +6,7 @@
 * ****Add Registration:****
 * ****Transparency:****
 * ****Immutability:****
-* ****Automation:****
+* ****Automation:**** Eliminates manual errors by removing the need for manual data entry by the manager.
 
 ## 🧠 Key Concepts Applied
 * ****Modifier:**** Access-Control for onlyManager of the inventory system to access the details.
