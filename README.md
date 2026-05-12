@@ -56,6 +56,8 @@ Runing specific test:
 
 ## 📋Contract Details
 ### Functions:
+* ****`addInventoryItem`****:
+
 ### Variables:
 
 ## Usage Guide (How to use - When using Remix IDE)
