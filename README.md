@@ -39,6 +39,7 @@
     ```shell
       cd inventory-management-smart-contract
     ```
+2. Compile the smart contract:
 
 ## Usage
 
