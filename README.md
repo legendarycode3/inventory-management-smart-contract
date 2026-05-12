@@ -5,7 +5,7 @@
 ## 📌 Features
 
 ## 🧠 Key Concepts Applied
-* ****Modifier:****
+* ****Modifier:**** Access-Control for onlyManager of the inventory system to access the details.
 * ****Struct:****
 * ****Mapping:****
 * ****Data types:****
