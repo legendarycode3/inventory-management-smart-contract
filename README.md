@@ -3,7 +3,7 @@
 ## Project Overview
 
 ## 📌 Features
-* ****Add Registration:****
+* ****AddItem Capability:****
 * ****Transparency:****
 * ****Immutability:****
 * ****Automation:**** Eliminates manual errors by removing the need for manual data entry by the manager.
