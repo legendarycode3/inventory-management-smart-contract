@@ -58,8 +58,8 @@ Runing specific test:
 ### Functions:
 * ****`addInventoryItem`****:
 * ****`updateInventoryItem`****:
-* ****`removeInventoryItem`****:
-* ****`shipInventoryItem*(uint256, uint256)`****: Function that allows inventory manager to ship a requested inventoryItem to the customers in need.
+* ****`removeInventoryItem(uint256)`****: Function that  allows the inventory manager to remove an existing item from the inventory.
+* ****`shipInventoryItem*(uint256, uint256)`****: Function that allows inventory manager to ship / sale a requested inventoryItem to the customers in need.
 * ****`getInventoryItem(uint256)`****:  Function allows to retrieve the details of a specific inventory item by its ID.
 
 ### Variables:
