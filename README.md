@@ -7,7 +7,7 @@
 ## 🧠 Key Concepts Applied
 
 ## 📂 Project Structure (Files)
-* ****`InventoryManagement.sol`****:
+* ****`InventoryManagement.sol`****: The main source file contract implementing addInventoryItem, updateInventoryItem, removeInventoryItem, shipInventoryItem and getInventoryItem functions.
 * ****`InventoryManagement.t.sol`****:
 
 ## 🌐Technology Stack (Technologies Used)
