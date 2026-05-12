@@ -79,6 +79,7 @@ Runing specific test:
 ## Usage Guide (How to use - When using Remix IDE)
 
 ## Why This Matters (Inventory Management Smart Contract)
+Inventory Management Smart Contracts matters in Web3 because they
 
 ## Security Considerations
 
