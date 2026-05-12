@@ -8,7 +8,8 @@
 * ****Struct:****
 * ****Mapping:****
 * ****Data types:****
-* ****Constructor:**** 
+* ****Constructor:****
+* ****Custom Error:****
 
 ## 📂 Project Structure (Files)
 * ****`InventoryManagement.sol`****: The main source file contract implementing `addInventoryItem`, `updateInventoryItem`, `removeInventoryItem`, `shipInventoryItem` and `getInventoryItem` functions.
