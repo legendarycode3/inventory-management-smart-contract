@@ -10,7 +10,7 @@
 * ****Mapping:****
 * ****Data types:**** Defines the exact nature of data to be stored, ensuring the blockchain knows how to handle, compute, and store it efficiently.
 * ****Constructor:****
-* ****Custom Error:****
+* ****Custom Error:**** Defined and used custom errors implementations, for gas optimation.
 
 ## 📂 Project Structure (Files)
 * ****`InventoryManagement.sol`****: The main source file contract implementing `addInventoryItem`, `updateInventoryItem`, `removeInventoryItem`, `shipInventoryItem` and `getInventoryItem` functions.
