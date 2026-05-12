@@ -60,6 +60,7 @@ Runing specific test:
 * ****`updateInventoryItem`****:
 * ****`removeInventoryItem`****:
 * ****`shipInventoryItem`****:
+* ****`getInventoryItem`****:
 
 ### Variables:
 
